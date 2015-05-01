@@ -38,6 +38,14 @@ Presentation at Libre Graphics Meeting 2015 in Toronto on libre font editors
 * https://plus.google.com/communities/110027004108709154749
 * http://metapolator.com/home/
 * http://teespring.com/metapolator-beta-0-3-0
+
+Switch to Firefox
+
+* http://metapolator.com/purple-pill/
+* http://metapolator.com/red-pill-demo/
+
+Back to Chrome
+
 * https://github.com/fontforge/fontforge/milestones/
 * http://unifiedfontobject.org/
 * https://docs.google.com/document/d/10bOfbJvykm_CUN-nV4FgFn9R7cYWSEEfLm0JnJD3FSU/edit#heading=h.4eu51e81r65l
@@ -45,5 +53,8 @@ Presentation at Libre Graphics Meeting 2015 in Toronto on libre font editors
 * https://github.com/fontforge/fontforge/issues/1827#issuecomment-97728390
 * http://typejs.org/
 * http://output.jsbin.com/tetoki/10/quiet
+
+Sites mentioned in questions:
+
 * http://birdfont.org/
 * https://unhosted.org/
