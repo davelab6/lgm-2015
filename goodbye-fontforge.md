@@ -33,7 +33,7 @@ Dave Crossland attended the first LGM as an undergraduate graphic design student
 * http://typism.appspot.com/fonts/tutorial
 * http://typism.appspot.com/fonts/index/history/30/editor#move
 * http://fontclod.com/edit.html
-* http://glyphwiki.org/wiki/GlyphWiki:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
+* http://glyphwiki.org
 * http://metaflop.com/modulator
 * http://metapolator.tumblr.com/image/55767639519
 * http://metapolator.com/pre.html
