@@ -24,6 +24,11 @@ Jumping to Libre Graphics [video](https://youtu.be/V3Xv04O2L6A) + [pdf](jumping-
 
 [Natron](http://www.youtube.com/watch?v=qvbcQsj-7QY)
 
+[OpenGL LibreOffice](http://www.youtube.com/watch?v=tt8igYxWro4) ([summary](http://libregraphicsmeeting.org/2015/program/##markus-mohrhard-opengl-in-libreoffice))
+
+[microraptor gui](https://www.youtube.com/watch?v=CbPX8LnMf2c) ([summary](http://libregraphicsmeeting.org/2015/program/##Øyvind-kolås-microraptor-gui,-an-immediate-compromise))
+
+
 ## Photos
 
 [Panorama of Day 1](https://plus.google.com/+DaveCrossland/posts/6bcaashcLxT?pid=6143301334474355122&oid=107256173895795146408)
