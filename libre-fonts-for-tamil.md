@@ -2,6 +2,8 @@
 
 _Presented by Eben Sorkin on behalf of Pria Ravichandran_
 
+http://www.youtube.com/watch?v=RtP2xznvrA0
+
 See [libre-fonts-for-tamil.pdf](libre-fonts-for-tamil.pdf) (also available online at 
 https://speakerdeck.com/priaravichandran/libre-fonts-for-tamil-presented-by-eben-sorkin)
 
