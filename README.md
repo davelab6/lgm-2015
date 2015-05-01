@@ -2,17 +2,13 @@
 
 Here's some media and notes of presentations at Libre Graphics Meeting 2015 in Toronto
 
-## Bootleg videos 
-
 [Goodbye FontForge](goodbye-fontforge.md)
 
 [Libre Fonts for Tamil](libre-fonts-for-tamil.md)
 
-[html2print](http://www.youtube.com/watch?v=5Z3gN7btok8)
+Jumping to Libre Graphics [video](https://youtu.be/V3Xv04O2L6A) + [pdf](jumping-to-libre-graphics.pdf)
 
-[Jumping to Libre Graphics](https://youtu.be/V3Xv04O2L6A)
-
-[Natron](http://www.youtube.com/watch?v=qvbcQsj-7QY)
+## Bootleg videos 
 
 [Metapolator: designing interaction for creative pros](https://youtu.be/PWv20kJSbwU)
 
@@ -23,6 +19,10 @@ Here's some media and notes of presentations at Libre Graphics Meeting 2015 in T
 > http://blog.mmiworks.net
 
 [Pushing open source UX design at ownCloud](https://youtu.be/fHeiK7rTg5A)
+
+[html2print](http://www.youtube.com/watch?v=5Z3gN7btok8)
+
+[Natron](http://www.youtube.com/watch?v=qvbcQsj-7QY)
 
 ## Photos
 
