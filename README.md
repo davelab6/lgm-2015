@@ -1,5 +1,7 @@
 # Libre Graphics Meeting 2015
 
+![LGM15 animation](lgm15.gif)
+
 Here's some media and notes of presentations at Libre Graphics Meeting 2015 in Toronto
 
 ### Goodbye FontForge
@@ -84,6 +86,6 @@ Fridrich Strba
 
 ## Photos
 
-[Panorama of Day 1](https://plus.google.com/+DaveCrossland/posts/6bcaashcLxT?pid=6143301334474355122&oid=107256173895795146408)
+![Panorama of Day 1](day1.jpg)
 
-[Panorama of Day 2](https://plus.google.com/+DaveCrossland/posts/6bcaashcLxT?pid=6143565684991459602&oid=107256173895795146408)
+![Panorama of Day 2](day2.jpg)
